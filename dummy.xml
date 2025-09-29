@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="dummy" generator-info-url="https://dummy.com/">
+    <channel id="Películas247.us">
+        <display-name>Películas 24x7</display-name>
+    </channel>
+    <channel id="Series247.us">
+        <display-name>Series 24x7</display-name>
+    </channel>
+    <channel id="Música247.us">
+        <display-name>Música 24x7</display-name>
+    </channel>
+    <channel id="Noticias247.us">
+        <display-name>Noticias 24x7</display-name>
+    </channel>
+    <channel id="Documentales247.us">
+        <display-name>Documentales 24x7</display-name>
+    </channel>
+    <channel id="Anime247.us">
+        <display-name>Anime 24x7</display-name>
+    </channel>
+    <channel id="Deportes247.us">
+        <display-name>Deportes 24x7</display-name>
+    </channel>
+    <channel id="Radios247.us">
+        <display-name>Radios 24x7</display-name>
+    </channel>
+    <channel id="Animación247.us">
+        <display-name>Animación 24x7</display-name>
+    </channel>
+    <channel id="Gaming247.us">
+        <display-name>Gaming 24x7</display-name>
+    </channel>
+    <channel id="Sonidos247.us">
+        <display-name>Sonidos 24x7</display-name>
+    </channel>
+    <programme start="20250929102138 +0000" stop="20251029102138 +0000" channel="Películas247.us">
+        <title lang="">Películas 24/7</title>
+        <desc lang="">Películas 24/7 - Transmiten Películas las 24 horas del día, los 7 días de la semana.</desc>
+    </programme>
+    <programme start="20250929102138 +0000" stop="20251029102138 +0000" channel="Series247.us">
+        <title lang="">Series 24/7</title>
+        <desc lang="">Series 24/7 - Transmiten Series las 24 horas del día, los 7 días de la semana.</desc>
+    </programme>
+    <programme start="20250929102138 +0000" stop="20251029102138 +0000" channel="Música247.us">
+        <title lang="">Música 24/7</title>
+        <desc lang="">Música 24/7 - Transmiten Música las 24 horas del día, los 7 días de la semana.</desc>
+    </programme>
+    <programme start="20250929102138 +0000" stop="20251029102138 +0000" channel="Noticias247.us">
+        <title lang="">Noticias 24/7</title>
+        <desc lang="">Noticias 24/7 - Transmiten Noticias las 24 horas del día, los 7 días de la semana.</desc>
+    </programme>
+    <programme start="20250929102138 +0000" stop="20251029102138 +0000" channel="Documentales247.us">
+        <title lang="">Documentales 24/7</title>
+        <desc lang="">Documentales 24/7 - Transmiten Documentales las 24 horas del día, los 7 días de la semana.</desc>
+    </programme>
+    <programme start="20250929102138 +0000" stop="20251029102138 +0000" channel="Anime247.us">
+        <title lang="">Anime 24/7</title>
+        <desc lang="">Anime 24/7 - Transmiten Anime las 24 horas del día, los 7 días de la semana.</desc>
+    </programme>
+    <programme start="20250929102138 +0000" stop="20251029102138 +0000" channel="Deportes247.us">
+        <title lang="">Deportes 24/7</title>
+        <desc lang="">Deportes 24/7 - Transmiten Deportes las 24 horas del día, los 7 días de la semana.</desc>
+    </programme>
+    <programme start="20250929102138 +0000" stop="20251029102138 +0000" channel="Radios247.us">
+        <title lang="">Radios 24/7</title>
+        <desc lang="">Radios 24/7 - Transmiten radios con/sin imagen las 24 horas del día, los 7 días de la semana.</desc>
+    </programme>
+    <programme start="20250929102138 +0000" stop="20251029102138 +0000" channel="Animación247.us">
+        <title lang="">Animación 24/7</title>
+        <desc lang="">Animación 24/7 - Transmiten dibujos animados las 24 horas del día, los 7 días de la semana.</desc>
+    </programme>
+    <programme start="20250929102138 +0000" stop="20251029102138 +0000" channel="Gaming247.us">
+        <title lang="">Gaming 24/7</title>
+        <desc lang="">Gaming 24/7 - Transmiten streams de juegos las 24 horas del día, los 7 días de la semana.</desc>
+    </programme>
+    <programme start="20250929102138 +0000" stop="20251029102138 +0000" channel="Sonidos247.us">
+        <title lang="">Sonidos 24/7</title>
+        <desc lang="">Sonidos 24/7 - Sonidos de la naturaleza las 24 horas del día, los 7 días de la semana.</desc>
+    </programme>
+</tv>
