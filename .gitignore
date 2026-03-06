@@ -1,0 +1,9 @@
+# Ignorar todo por defecto
+*
+# Excepto estos archivos de EPG y los scripts
+!.gitignore
+!actualiza_epg.py
+!tu_archivo.xml
+!tu_archivo_actualizado.xml
+!dummy.xml
+!run_update.sh
