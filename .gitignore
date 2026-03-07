@@ -1,9 +1,9 @@
-# Ignorar todo por defecto
+# Bloquear todo por defecto (scripts, xmls locales, etc.)
 *
-# Excepto estos archivos de EPG y los scripts
-!.gitignore
-!actualiza_epg.py
-!tu_archivo.xml
-!tu_archivo_actualizado.xml
+
+# Solo permitir el archivo generado y su compresión
 !dummy.xml
-!run_update.sh
+!dummy.tar.gz
+
+# Permitir el gitignore para que Git sepa qué filtrar
+!.gitignore
